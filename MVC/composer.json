@@ -1,0 +1,13 @@
+{
+    "autoload": {
+        "psr-4": {
+            "Alura\\Cursos\\": "src/"
+        }
+    },
+    "require": {
+        "doctrine/orm": "^2.10",
+        "symfony/cache": "^6.0",
+        "symfony/console": "^6.0",
+        "guzzlehttp/guzzle": "^7.4"
+    }
+}
